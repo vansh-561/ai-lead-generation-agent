@@ -56,6 +56,9 @@ A powerful AI-driven lead generation system that combines multiple AI models and
    ```bash
    poetry shell
    ```
+![Screenshot (130)](https://github.com/user-attachments/assets/6da4f96e-9dcb-4a10-bf05-fb2c93a2e63c)
+
+![Screenshot (131)](https://github.com/user-attachments/assets/25c083e5-0c26-49d8-8e1d-4193c689e52a)
 
 ## 🚀 Usage
 
