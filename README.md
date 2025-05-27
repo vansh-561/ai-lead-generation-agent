@@ -17,7 +17,7 @@ A powerful AI-driven lead generation system that combines multiple AI models and
 - **Search Engine**: Tavily AI
 - **Framework**: LangGraph for multi-agent orchestration
 - **Interface**: Streamlit
-- **Language**: Python 3.9+
+- **Language**: Python 3.13+
 
 ## 📋 Prerequisites
 
